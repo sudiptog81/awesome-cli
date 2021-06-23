@@ -18,7 +18,10 @@
     "url": "https://github.com/sudiptog81/awesome-cli/issues"
   },
   "homepage": "https://github.com/sudiptog81/awesome-cli",
-  "keywords": [],
+  "keywords": [
+   "typescript",
+   "github"
+  ],
   "bin": {
     "is-mergeable": "dist/cli.js"
   },
