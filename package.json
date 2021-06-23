@@ -23,7 +23,7 @@
    "github"
   ],
   "bin": {
-    "is-mergeable": "dist/cli.js"
+    "awesome-cli": "dist/cli.js"
   },
   "scripts": {
     "prestart": "npm run build",
