@@ -24,3 +24,15 @@ Options:
       --version  Show version number  [boolean]
   -r, --repo     repository           [string] [required]
 ```
+
+```bash
+$ awesome-cli -r sudiptog81/awesome-cli
+
+   ╔═══════════════════════════════════════════╗
+   ║                                           ║
+   ║            sudiptog81/stay.io             ║
+   ║   https://github.com/sudiptog81/stay.io   ║
+   ║       API Cost: 1 (4996 Remaining)        ║
+   ║                                           ║
+   ╚═══════════════════════════════════════════╝
+```

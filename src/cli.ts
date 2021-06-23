@@ -11,7 +11,7 @@ import { CLIArguments, GetRepositoryResult } from "./types";
 
   const argv = await yargs.usage("Usage: -r <repo>").option("r", {
     alias: "repo",
-    describe: "repository",
+    describe: "repository for eg sudiptog81/awesome-cli",
     type: "string",
     demandOption: true,
   }).argv;
