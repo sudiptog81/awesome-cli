@@ -1,6 +1,6 @@
 {
   "name": "@sudiptog81/awesome-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A CLI written in TypeScript to fetch GitHub repositories.",
   "private": false,
   "main": "dist/cli.js",
